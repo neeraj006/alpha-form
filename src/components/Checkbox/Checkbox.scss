@@ -1,0 +1,9 @@
+.checkbox-container {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  .checkbox-value {
+    margin-left: 10px;
+    color: rgb(120, 120, 120);
+  }
+}

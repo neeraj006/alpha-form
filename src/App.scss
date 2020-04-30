@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: rgb(127, 35, 204);
+
+  .container {
+    display: flex;
+    align-items: flex-start;
+    width: 80%;
+    height: 100%;
+  }
+}

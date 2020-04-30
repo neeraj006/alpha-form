@@ -1,0 +1,15 @@
+.list-item-container {
+  background: #e4e4e4;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  .list-item-text {
+    color: rgb(120, 120, 120);
+  }
+  .cross-icon {
+    font-size: 30px;
+    margin-left: 10px;
+  }
+}
